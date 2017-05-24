@@ -1,0 +1,26 @@
+c{
+  font-size:50px;
+}
+input button {
+  font-size:50px;
+}
+d{
+  width:100%;
+  text-align:center;  
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size:50px;
+}
+d2{
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size:30px;
+}
+div {
+/*   background-color:	#FFDD55; */
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size:28px;
+
+}
+input[name="message"]{
+  width:50%;
+  height:100px;
+}
